@@ -1,2 +1,2 @@
 # github-actions-docs
-Workflows from github actions docs
+Sample workflows from GITHUB actions docs
