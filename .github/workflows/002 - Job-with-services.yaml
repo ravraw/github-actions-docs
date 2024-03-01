@@ -1,7 +1,7 @@
 name: PostgreSQL Service Example
 on:
   workflow_dispatch:
-  push:
+  # push:
 
 jobs:
   postgres-job:
