@@ -1,5 +1,5 @@
 name: PostgreSQL Service Example
-on: workflow_dispatch
+on: [workflow_dispatch, push]
 jobs:
   postgres-job:
     runs-on: ubuntu-latest
